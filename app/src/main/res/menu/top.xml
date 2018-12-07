@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="How to use?"
+        android:id="@+id/how"></item>
+    <item
+        android:title="Feedback"
+        android:id="@+id/fback"></item>
+    <item
+        android:title="Share our app"
+        android:id="@+id/share"
+        ></item>
+    <item
+        android:title="Terms and Conditions"
+        android:id="@+id/toc"></item>
+    <item
+        android:title="Logout"
+        android:id="@+id/logout"></item>
+
+    <item
+        android:title="Rate us!"
+        android:id="@+id/rate"
+        app:showAsAction="always"></item>
+
+
+
+</menu>

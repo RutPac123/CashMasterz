@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CashMaster</string>
+    <string name="title_activity_login">login</string>
+    <string name="facebook_app_id">2137155589837692</string>
+    <string name="fb_login_protocol_scheme">fb2137155589837692</string>
+    <string name="bh" translatable="false">BLAH</string>
+</resources>
